@@ -1,0 +1,7 @@
+1. git clone url
+2. git add *
+3. git commmit -m "thongbao"
+4. git push origin master
+5. git pull origin 
+6. git status
+7. git log
